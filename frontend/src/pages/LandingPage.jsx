@@ -448,7 +448,6 @@ const LandingPage = () => {
             <div>
               <h4 className="font-bold text-lg mb-4">Menu</h4>
               <ul className="space-y-2">
-                <li><button onClick={() => scrollToSection('program')} className="text-gray-400 hover:text-white transition-colors">Program Latihan</button></li>
                 <li><button onClick={() => scrollToSection('pelatih')} className="text-gray-400 hover:text-white transition-colors">Pelatih</button></li>
                 <li><button onClick={() => scrollToSection('prestasi')} className="text-gray-400 hover:text-white transition-colors">Prestasi</button></li>
                 <li><button onClick={() => scrollToSection('kontak')} className="text-gray-400 hover:text-white transition-colors">Kontak</button></li>
