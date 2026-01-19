@@ -48,7 +48,6 @@ const LandingPage = () => {
               <span className="font-bold text-lg md:text-xl text-balida-blue hidden sm:block">SSB Balida Maju</span>
             </div>
             <nav className="hidden md:flex items-center gap-8">
-              <button onClick={() => scrollToSection('program')} className="text-gray-600 hover:text-balida-blue transition-colors font-medium">Program</button>
               <button onClick={() => scrollToSection('pelatih')} className="text-gray-600 hover:text-balida-blue transition-colors font-medium">Pelatih</button>
               <button onClick={() => scrollToSection('prestasi')} className="text-gray-600 hover:text-balida-blue transition-colors font-medium">Prestasi</button>
               <button onClick={() => scrollToSection('kontak')} className="text-gray-600 hover:text-balida-blue transition-colors font-medium">Kontak</button>
