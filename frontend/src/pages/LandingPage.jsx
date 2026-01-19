@@ -22,7 +22,6 @@ import {
 } from 'lucide-react';
 import {
   ssbInfo,
-  programs,
   coaches,
   achievements,
   testimonials,
