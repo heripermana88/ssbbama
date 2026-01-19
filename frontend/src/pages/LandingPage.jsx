@@ -98,12 +98,12 @@ const LandingPage = () => {
                   <ChevronRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </Button>
                 <Button 
-                  onClick={() => scrollToSection('program')}
+                  onClick={() => scrollToSection('pelatih')}
                   size="lg"
                   variant="outline"
                   className="border-2 border-white text-white hover:bg-white hover:text-balida-blue font-bold px-8 py-6 text-lg"
                 >
-                  Lihat Program
+                  Lihat Pelatih
                 </Button>
               </div>
 
