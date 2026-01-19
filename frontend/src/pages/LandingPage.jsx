@@ -5,8 +5,6 @@ import { Badge } from '../components/ui/badge';
 import {
   Users,
   Trophy,
-  Calendar,
-  Clock,
   MapPin,
   Phone,
   Mail,
