@@ -112,7 +112,7 @@ export const testimonials = [
 ];
 
 export const contactInfo = {
-  address: "Lapangan Bola Balida, Jl. Olahraga No. 123, Kota Semarang",
+  address: "Lapangan Sepak Bola Balida, Desa Balida, Kec. Dawuan, Kab. Majalengka, Jawa Barat",
   phone: "+62 812-3456-7890",
   whatsapp: "6281234567890",
   email: "ssb.balidamaju@gmail.com",
