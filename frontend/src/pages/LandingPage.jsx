@@ -454,9 +454,10 @@ const LandingPage = () => {
             <div>
               <h4 className="font-bold text-lg mb-4">Jadwal Latihan</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Rabu: 15:00 - 17:00</li>
-                <li>Sabtu: 07:00 - 11:00</li>
-                <li>Minggu: 07:00 - 11:00</li>
+                <li>Senin</li>
+                <li>Selasa</li>
+                <li>Rabu</li>
+                <li>Sabtu</li>
               </ul>
             </div>
           </div>
