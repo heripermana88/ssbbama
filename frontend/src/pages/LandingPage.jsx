@@ -29,7 +29,7 @@ import {
 
 const LandingPage = () => {
   const logoUrl = "https://customer-assets.emergentagent.com/job_soccer-balida/artifacts/i6njzqy4_1000250997-removebg-preview.png";
-  const bintadaLogoUrl = "https://customer-assets.emergentagent.com/job_soccer-balida/artifacts/9dbuqure_1769273725067.png";
+  const bintadaLogoUrl = "https://customer-assets.emergentagent.com/job_soccer-balida/artifacts/uedrv400_1000251004-removebg-preview.png";
 
   const scrollToSection = (id) => {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
