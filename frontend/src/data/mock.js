@@ -7,7 +7,7 @@ export const ssbInfo = {
   founded: "2018",
   totalStudents: "150+",
   achievements: "25+",
-  googleFormLink: "https://forms.google.com/your-form-link"
+  googleFormLink: "https://s.id/formPendaftaranSSBBama"
 };
 
 export const programs = [
