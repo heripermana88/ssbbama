@@ -92,7 +92,7 @@ export const testimonials = [
     id: 1,
     name: "Pak Hendra",
     role: "Orang Tua Siswa",
-    text: "Anak saya sangat berkembang sejak bergabung di SSB Balida Maju. Selain skill sepak bola, kedisiplinan dan sportivitasnya juga meningkat.",
+    text: "Anak saya sangat berkembang sejak bergabung di SSB BAMA. Selain skill sepak bola, kedisiplinan dan sportivitasnya juga meningkat.",
     rating: 5
   },
   {
