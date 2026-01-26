@@ -313,7 +313,7 @@ const LandingPage = () => {
               <div className="absolute inset-0 bg-balida-blue/20 rounded-3xl transform rotate-3"></div>
               <div className="absolute inset-0 bg-balida-gold/20 rounded-3xl transform -rotate-3"></div>
               <div className="relative bg-gradient-to-br from-balida-blue to-balida-blue/80 rounded-3xl p-8 text-center">
-                <img src={logoUrl} alt="SSB Balida Maju" className="w-48 h-48 mx-auto mb-6 object-contain" />
+                <img src={logoUrl} alt="SSB BAMA" className="w-48 h-48 mx-auto mb-6 object-contain" />
                 <h3 className="text-2xl font-bold text-white mb-2">Bergabunglah Bersama Kami!</h3>
                 <p className="text-white/70 mb-6">Wujudkan impian anak Anda menjadi pesepakbola profesional</p>
                 <Button 
