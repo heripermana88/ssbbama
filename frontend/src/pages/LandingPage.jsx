@@ -126,7 +126,7 @@ const LandingPage = () => {
                 <div className="absolute inset-0 bg-balida-gold/20 rounded-full blur-3xl scale-110"></div>
                 <img 
                   src={logoUrl} 
-                  alt="SSB Balida Maju Logo" 
+                  alt="SSB BAMA Logo" 
                   className="relative w-80 h-80 object-contain drop-shadow-2xl animate-float"
                 />
               </div>
