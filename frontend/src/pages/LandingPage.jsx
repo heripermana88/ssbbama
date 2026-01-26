@@ -421,6 +421,26 @@ const LandingPage = () => {
         </div>
       </section>
 
+      {/* Supported By Section */}
+      <section className="py-12 bg-slate-100">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center">
+            <p className="text-gray-500 text-sm uppercase tracking-wider mb-6">Supported by</p>
+            <div className="flex items-center justify-center gap-6">
+              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-lg transition-shadow">
+                <img 
+                  src={bintadaLogoUrl} 
+                  alt="PT BINTADA - Bina Talenta Daerah" 
+                  className="h-20 md:h-24 w-auto object-contain"
+                />
+                <p className="text-gray-700 font-semibold mt-3 text-sm">PT BINTADA</p>
+                <p className="text-gray-500 text-xs">Bina Talenta Daerah</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
