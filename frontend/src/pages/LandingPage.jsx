@@ -42,7 +42,7 @@ const LandingPage = () => {
           <div className="flex items-center justify-between h-16 md:h-20">
             <div className="flex items-center gap-3">
               <img src={logoUrl} alt="SSB Balida Maju" className="h-12 md:h-14 w-auto" />
-              <span className="font-bold text-lg md:text-xl text-balida-blue hidden sm:block">SSB Balida Maju</span>
+              <span className="font-bold text-lg md:text-xl text-balida-blue hidden sm:block">SSB BAMA</span>
             </div>
             <nav className="hidden md:flex items-center gap-8">
               <button onClick={() => scrollToSection('pelatih')} className="text-gray-600 hover:text-balida-blue transition-colors font-medium">Pelatih</button>
