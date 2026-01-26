@@ -337,7 +337,7 @@ const LandingPage = () => {
         </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">
-            Siap Bergabung dengan SSB Balida Maju?
+            Siap Bergabung dengan SSB BAMA?
           </h2>
           <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
             Daftarkan anak Anda sekarang dan biarkan kami membantu mengembangkan bakat sepak bolanya bersama pelatih profesional.
