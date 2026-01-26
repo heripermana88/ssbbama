@@ -118,7 +118,7 @@ export const contactInfo = {
   email: "ssb.balidamaju@gmail.com",
   instagram: "@ssb_balidamaju",
   facebook: "SSB Balida Maju Official",
-  trainingDays: "Rabu, Sabtu, Minggu"
+  trainingDays: "Senin, Selasa, Rabu, Sabtu"
 };
 
 export const facilities = [
