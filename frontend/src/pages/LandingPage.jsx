@@ -28,7 +28,7 @@ import {
 } from '../data/mock';
 
 const LandingPage = () => {
-  const logoUrl = "https://customer-assets.emergentagent.com/job_c1ece7c8-29ba-42b8-a301-accd4c69b68c/artifacts/dpu6ox8m_c867f0ca.Foto%20Siswa.004937.png";
+  const logoUrl = "https://customer-assets.emergentagent.com/job_soccer-balida/artifacts/i6njzqy4_1000250997-removebg-preview.png";
 
   const scrollToSection = (id) => {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
