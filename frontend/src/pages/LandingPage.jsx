@@ -143,6 +143,54 @@ const LandingPage = () => {
         </div>
       </section>
 
+      {/* Motto & BAMA Value Section */}
+      <section className="py-20 bg-slate-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Motto */}
+          <div className="text-center mb-16">
+            <Badge className="bg-balida-gold/10 text-balida-gold border-balida-gold/20 mb-4">
+              Motto Kami
+            </Badge>
+            <h2 className="text-2xl md:text-4xl font-bold text-balida-blue italic">
+              "BAMA: Balida Maju, Prestasi Menunggu!"
+            </h2>
+          </div>
+
+          {/* BAMA Value */}
+          <div className="text-center mb-12">
+            <Badge className="bg-balida-blue/10 text-balida-blue border-balida-blue/20 mb-4">
+              Nilai-Nilai Kami
+            </Badge>
+            <h3 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              BAMA Value
+            </h3>
+            <p className="text-gray-600 max-w-2xl mx-auto">
+              Empat nilai utama yang menjadi fondasi pembinaan di SSB BAMA
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {[
+              { letter: "B", title: "Berani", subtitle: "Brave", desc: "Berani tampil, berani mencoba, dan berani bermimpi besar" },
+              { letter: "A", title: "Adaptif", subtitle: "Adaptive", desc: "Mampu menyesuaikan diri dengan situasi dan tantangan baru" },
+              { letter: "M", title: "Mandiri", subtitle: "Independent", desc: "Bertanggung jawab dan mampu mengambil keputusan sendiri" },
+              { letter: "A", title: "Amanah", subtitle: "Trustworthy", desc: "Dapat dipercaya dan menjunjung tinggi integritas" }
+            ].map((value, idx) => (
+              <Card key={idx} className="group hover:shadow-xl transition-all duration-300 border-0 bg-white hover:-translate-y-2 overflow-hidden">
+                <CardContent className="p-6 text-center relative">
+                  <div className="w-20 h-20 bg-gradient-to-br from-balida-blue to-balida-blue/80 rounded-2xl flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+                    <span className="text-4xl font-bold text-white">{value.letter}</span>
+                  </div>
+                  <h4 className="text-xl font-bold text-gray-900 mb-1">{value.title}</h4>
+                  <p className="text-balida-gold font-medium text-sm mb-3">({value.subtitle})</p>
+                  <p className="text-gray-600 text-sm">{value.desc}</p>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Why Choose Us */}
       <section className="py-20 bg-slate-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
