@@ -41,7 +41,7 @@ const LandingPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16 md:h-20">
             <div className="flex items-center gap-3">
-              <img src={logoUrl} alt="SSB Balida Maju" className="h-12 md:h-14 w-auto" />
+              <img src={logoUrl} alt="SSB BAMA" className="h-12 md:h-14 w-auto" />
               <span className="font-bold text-lg md:text-xl text-balida-blue hidden sm:block">SSB BAMA</span>
             </div>
             <nav className="hidden md:flex items-center gap-8">
