@@ -464,7 +464,7 @@ const LandingPage = () => {
 
           <div className="border-t border-gray-800 pt-8 text-center">
             <p className="text-gray-500">
-              © {new Date().getFullYear()} SSB Balida Maju. All rights reserved.
+              © {new Date().getFullYear()} SSB BAMA. All rights reserved.
             </p>
           </div>
         </div>
