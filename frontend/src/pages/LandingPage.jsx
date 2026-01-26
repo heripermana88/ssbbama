@@ -426,7 +426,7 @@ const LandingPage = () => {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div className="md:col-span-2">
               <div className="flex items-center gap-3 mb-4">
-                <img src={logoUrl} alt="SSB Balida Maju" className="h-14 w-auto" />
+                <img src={logoUrl} alt="SSB BAMA" className="h-14 w-auto" />
                 <span className="font-bold text-xl">SSB BAMA</span>
               </div>
               <p className="text-gray-400 mb-4 max-w-md">
