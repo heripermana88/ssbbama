@@ -1,9 +1,9 @@
 // Mock data untuk SSB Balida Maju
 
 export const ssbInfo = {
-  name: "SSB Balida Maju",
+  name: "SSB BAMA",
   tagline: "Membentuk Pemain Berkualitas, Berkarakter & Berprestasi",
-  description: "Academy Sepak Bola Balida Maju adalah sekolah sepak bola yang berkomitmen mengembangkan bakat anak-anak Indonesia melalui pembinaan profesional dan metode latihan modern.",
+  description: "Academy Sepak Bola BAMA adalah sekolah sepak bola yang berkomitmen mengembangkan bakat anak-anak Indonesia melalui pembinaan profesional dan metode latihan modern.",
   founded: "2018",
   totalStudents: "150+",
   achievements: "25+",
