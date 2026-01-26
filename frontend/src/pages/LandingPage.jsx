@@ -150,7 +150,7 @@ const LandingPage = () => {
               Mengapa Memilih Kami
             </Badge>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Keunggulan SSB Balida Maju
+              Keunggulan SSB BAMA
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Kami berkomitmen memberikan pembinaan terbaik untuk mengembangkan potensi anak Anda
